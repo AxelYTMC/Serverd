@@ -3722,3 +3722,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [19:24:05] [Server thread/INFO] [RLTweakerASM]: Patch exists for ichttt.mods.firstaid.common.util.ArmorUtils
 [19:24:05] [Server thread/INFO] [RLTweakerASM]: Writing class ichttt.mods.firstaid.common.util.ArmorUtils with flags MAXS | FRAMES
 [19:24:05] [Server thread/INFO] [firstaid]: Quality Tools mod present. Enabling compat...
+[19:25:15] [Server thread/INFO] [Meson ASM]: Transforming ISpecialArmor
+[19:25:25] [Server thread/INFO] [Meson ASM]: Applying Transformation to method (Names [applyArmor, applyArmor, ] Descriptor (Lnet/minecraft/entity/EntityLivingBase;Lnet/minecraft/util/NonNullList;Lnet/minecraft/util/DamageSource;D)F / (Lvp;Lfi;Lur;D)F)
+[19:25:25] [Server thread/INFO] [Meson ASM]: Located method, patching...
+[19:25:25] [Server thread/INFO] [Meson ASM]: Located target ALOAD 1
+[19:25:25] [Server thread/INFO] [Meson ASM]: Patch result: true
+[19:25:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AxelYTMC walked into fire whilst fighting Afrit
+[19:25:25] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 9645ms behind, skipping 192 tick(s)
+[19:25:25] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: AxelYTMC moved too quickly! 8.611902514951908,-2.3208314151715257,4.707383730937636
+[19:25:48] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: AxelYTMC lost connection: Disconnected
+[19:25:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AxelYTMC left the game
+[19:25:48] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 10652ms behind, skipping 213 tick(s)
