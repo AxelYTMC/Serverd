@@ -1,4 +1,10 @@
 {
+  "mowziesmobs:suns_blessing": {
+    "criteria": {
+      "get_suns_blessing": "2024-12-02 18:46:36 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/root": {
     "criteria": {
       "seeds": "2024-12-02 06:31:32 +0000"
@@ -20,6 +26,24 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2024-12-02 18:27:22 +0000"
+    },
+    "done": true
+  },
+  "paraglider:paraglider": {
+    "criteria": {
+      "paraglider": "2024-12-02 18:45:54 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/paraglider/cosmetic/paraglider": {
+    "criteria": {
+      "has_paragliders": "2024-12-02 18:45:54 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/paraglider/cosmetic/deku_leaf": {
+    "criteria": {
+      "has_paragliders": "2024-12-02 18:45:54 +0000"
     },
     "done": true
   },
