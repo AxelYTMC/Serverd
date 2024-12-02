@@ -1,16 +1,4 @@
 {
-  "minecraft:recipes/transportation/acacia_boat": {
-    "criteria": {
-      "in_water": "2024-12-02 18:27:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/oak_boat": {
-    "criteria": {
-      "in_water": "2024-12-02 18:27:22 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:main/root": {
     "criteria": {
       "seeds": "2024-12-02 06:31:32 +0000"
@@ -32,6 +20,36 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2024-12-02 18:27:22 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2024-12-02 18:26:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2024-12-02 18:27:22 +0000"
+    },
+    "done": true
+  },
+  "isleofberk:strike": {
+    "criteria": {
+      "night_fury": "2024-12-02 18:40:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2024-12-02 18:27:22 +0000"
+    },
+    "done": true
+  },
+  "isleofberk:night_fury": {
+    "criteria": {
+      "requirements": "2024-12-02 18:40:36 +0000"
     },
     "done": true
   },
@@ -68,9 +86,15 @@
     },
     "done": false
   },
-  "alexsmobs:alexsmobs/root": {
+  "isleofberk:isleofberk": {
     "criteria": {
-      "useitem": "2024-12-02 18:26:37 +0000"
+      "stinger": "2024-12-02 18:32:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-02 18:32:37 +0000"
     },
     "done": true
   },
